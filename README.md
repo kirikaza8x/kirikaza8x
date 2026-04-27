@@ -67,21 +67,10 @@ I enjoy solving complex backend problems and designing systems that are easy to 
 
 ## 🚀 Featured Projects
 
-### [AIPromo — Event Management & AI Marketing Platform](https://github.com/kirikaza8x/Capstone)
-> AI-powered event management & marketing backend · [Live](https://aipromo.online) · [Mobile](https://apkpure.com/aipromo/com.sangnguyen1011.aipromomobile)
-
-Backend foundation built as 1 of 2 backend devs — Clean Architecture, modular monolith, CQRS, Outbox Pattern, vector search (Qdrant), RabbitMQ, Redis, social media automation via n8n + Meta Graph API, and GitHub Actions CI/CD.
-
-**Stack:** ASP.NET Core · PostgreSQL · RabbitMQ · Redis · Qdrant · Docker · AWS · GitHub Actions
-
----
-
-### [SmartCaloBE — AI Food Nutrition Tracker](https://github.com/machgiahao/SmartCaloBE)
-> Personalized health & fitness app with AI food recognition · [App](https://apkpure.com/smart-calo/com.penta.smartcalo)
-
-Co-owned backend end-to-end. Food image recognition pipeline (Python), Redis caching, Cloudinary integration, async messaging, Docker deployment.
-
-**Stack:** NestJS · PostgreSQL · Redis · Python · Cloudinary · Docker
+| Project | Live | App |
+|---|---|---|
+| [AIPromo — Event Management & AI Marketing Platform](https://github.com/kirikaza8x/Capstone) | [aipromo.online](https://aipromo.online) | [Mobile](https://apkpure.com/aipromo/com.sangnguyen1011.aipromomobile) |
+| [SmartCaloBE — AI Food Nutrition Tracker](https://github.com/machgiahao/SmartCaloBE) | — | [App](https://apkpure.com/smart-calo/com.penta.smartcalo) |
 
 ---
 
@@ -92,8 +81,16 @@ Co-owned backend end-to-end. Food image recognition pipeline (Python), Redis cac
 
 ---
 
+## 💭 My Favorite Quote
+
+> *"You don't know what you don't know."*
+
+---
+
 ## 💬 Contact
 
 - 📧 kirikaza8x@gmail.com
 - 📞 0708 743 801
 - 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)
+
+---
